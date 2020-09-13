@@ -45,14 +45,14 @@ li {
 .company-name {
     text-align: center;
     margin:0;
-    font: size 4em;
+    font: size 2em;
     font-family:'Titillium Web' ;
     font-weight: normal;
     color: white;
 
 }
 .company-name-large {
-    font-size:3em;
+    font-size:2em;
 }
 .content-section {
     margin:1em;
